@@ -1,0 +1,7 @@
+services:
+  parking-shade-bot:
+    image: ghcr.io/d3vv3/parking-shade-bot:latest
+    container_name: parking-shade-bot
+    build: .
+    env_file:
+      - .env
