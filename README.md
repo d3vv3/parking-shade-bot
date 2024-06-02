@@ -2,7 +2,7 @@
 
 A Telegram bot that helps you find a parking spot in the shade.
 
-[t.me/parking_shade_bot](https://t.me/parking_shade_bot)
+[t.me/parking_shade_bot](https://t.me/parking_shade_bot)  
 Just send it your location!
 
 The bot replies with a link to [shademap.app](shademap.app) with the current
